@@ -1,9 +1,10 @@
 import React from "react";
+import ChatTitle from "./component/title";
 
 const Chat = () => {
   return (
     <div>
-      <h1>Chat</h1>
+      <ChatTitle />
     </div>
   );
 };
